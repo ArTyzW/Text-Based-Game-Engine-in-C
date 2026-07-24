@@ -25,7 +25,7 @@ A terminal-based multiplayer ghost hunting game written in C inspired by Phasmop
 
 ## How to Run
 
-1. Compile the project with GCC:
+Compile the project with GCC:
    ```bash
    gcc -o phalsophobia main.c gamelib.c
 
